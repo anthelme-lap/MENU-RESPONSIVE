@@ -1,0 +1,65 @@
+*
+{
+	padding: 0px;
+	margin: 0px;
+	list-style: none;
+	
+}
+body
+{
+	font-family: serif;
+}
+#container2
+{
+	background: orange; 
+	width: 100%; 
+}
+
+.heading
+{
+	text-align: center;
+	margin-top: 60px;
+}
+h2
+{
+		  	
+	font-weight:bold; 
+	color: white;
+	font-family: arial;
+}
+
+#contact-form
+{
+	margin-top: 50px;
+	background-color: white;
+	border-radius: 12px;
+	padding: 30px;
+}
+.form-control
+{
+	font-size: 14px;
+	font-family: arial;
+}
+.comment
+{
+	font-weight: bold;
+	font-size: 15px;
+	color: red;
+	font-style: italic;
+	text-transform: lowercase;
+}
+.merci
+{
+	text-align: center;
+	margin-top: 10px;
+	font-size: 20px;
+}
+.btn
+{
+	width: 100%;
+	background: red;
+}
+.container-fluid.row.col-lg-10,h1
+{
+	text-align: center;
+}
